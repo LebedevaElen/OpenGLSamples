@@ -1,0 +1,13 @@
+D:\Documents\Visual Studio 2013\Projects\OpenGL\Sample2_Uniforms\Sample2_Uniforms\bin\Debug\Sample2_Uniforms.exe.config
+D:\Documents\Visual Studio 2013\Projects\OpenGL\Sample2_Uniforms\Sample2_Uniforms\bin\Debug\Sample2_Uniforms.exe
+D:\Documents\Visual Studio 2013\Projects\OpenGL\Sample2_Uniforms\Sample2_Uniforms\bin\Debug\Sample2_Uniforms.pdb
+D:\Documents\Visual Studio 2013\Projects\OpenGL\Sample2_Uniforms\Sample2_Uniforms\bin\Debug\OpenTK.dll
+D:\Documents\Visual Studio 2013\Projects\OpenGL\Sample2_Uniforms\Sample2_Uniforms\bin\Debug\OpenTK.GLControl.dll
+D:\Documents\Visual Studio 2013\Projects\OpenGL\Sample2_Uniforms\Sample2_Uniforms\bin\Debug\OpenTK.xml
+D:\Documents\Visual Studio 2013\Projects\OpenGL\Sample2_Uniforms\Sample2_Uniforms\bin\Debug\OpenTK.GLControl.xml
+D:\Documents\Visual Studio 2013\Projects\OpenGL\Sample2_Uniforms\Sample2_Uniforms\obj\Debug\Sample2_Uniforms.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\OpenGL\Sample2_Uniforms\Sample2_Uniforms\obj\Debug\Sample2_Uniforms.MainForm.resources
+D:\Documents\Visual Studio 2013\Projects\OpenGL\Sample2_Uniforms\Sample2_Uniforms\obj\Debug\Sample2_Uniforms.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\OpenGL\Sample2_Uniforms\Sample2_Uniforms\obj\Debug\Sample2_Uniforms.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\OpenGL\Sample2_Uniforms\Sample2_Uniforms\obj\Debug\Sample2_Uniforms.exe
+D:\Documents\Visual Studio 2013\Projects\OpenGL\Sample2_Uniforms\Sample2_Uniforms\obj\Debug\Sample2_Uniforms.pdb
